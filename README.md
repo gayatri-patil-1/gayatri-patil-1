@@ -24,4 +24,5 @@ CloudOps Engineer with hands-on experience in AWS, Linux, and DevOps tools.
 
 ## Contact
 LinkedIn: linkedin.com/in/gayatri-patil-265bb53a0
+
 Email: patilgayatriv67@gmail.com
