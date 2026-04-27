@@ -1,16 +1,27 @@
-## Hi there 👋
+# Gayatri Patil - Cloud & DevOps Engineer
 
-<!--
-**gayatri-patil-1/gayatri-patil-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CloudOps Engineer with hands-on experience in AWS, Linux, and DevOps tools.
 
-Here are some ideas to get you started:
+## Skills
+- AWS (EC2, S3, ELB, EKS)
+- Linux
+- Docker, Kubernetes
+- Jenkins, Git
+- Terraform, Ansible
+- Nginx, Apache
+- MySQL, MongoDB
+- Prometheus, Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 1. Highly Available Web Application on AWS
+- Microservices architecture
+- Load balancing using HAProxy
+- MySQL replication
+- Redis caching
+- CI/CD using Jenkins
+- Kubernetes (EKS deployment)
+
+## Contact
+LinkedIn: linkedin.com/in/gayatri-patil-265bb53a0
+Email: patilgayatriv67@gmail.com
